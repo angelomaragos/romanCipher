@@ -1,0 +1,7 @@
+c:\users\angelo maragos\documents\visual studio 2010\Projects\RomanCipher\RomanCipher\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\angelo maragos\documents\visual studio 2010\Projects\RomanCipher\RomanCipher\bin\Debug\RomanCipher.exe
+c:\users\angelo maragos\documents\visual studio 2010\Projects\RomanCipher\RomanCipher\bin\Debug\RomanCipher.pdb
+c:\users\angelo maragos\documents\visual studio 2010\Projects\RomanCipher\RomanCipher\obj\x86\Debug\RomanCipher.exe
+c:\users\angelo maragos\documents\visual studio 2010\Projects\RomanCipher\RomanCipher\obj\x86\Debug\RomanCipher.pdb
+C:\Users\Angelo\Desktop\RomanCipher\romanCipher\RomanCipher\RomanCipher\obj\x86\Debug\RomanCipher.exe
+C:\Users\Angelo\Desktop\RomanCipher\romanCipher\RomanCipher\RomanCipher\obj\x86\Debug\RomanCipher.pdb
